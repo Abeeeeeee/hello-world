@@ -1,3 +1,4 @@
 # hello-world
-My first time using github\n
+My first time using github
+
 second time
